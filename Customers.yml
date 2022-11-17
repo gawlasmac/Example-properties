@@ -4,4 +4,4 @@ spring:
     hibernate:
       ddl-auto: none
   datasource:
-    password: '{cipher}c81af9cbd1461f0ae90327afd04245a0ca274f8dc7b0bcf092f258a23064fc79f680d3c82251e73aa0f88812aa66fc95'  #tekstDoSzyfrowania
+    password: '{cipher}3a91f72b5362b946db8a64c312b39e954077558fa97eed73ec95b87cf9cfb91c8ce20f3cd4b80ebc552b9dfa5df661fa'  #tekstDoSzyfrowania
